@@ -1,0 +1,10 @@
+.HelloWorld{
+  padding: auto;
+  align-items: center;
+  text-align: center;
+  color: aqua;
+  position: absolute;
+  top: 50px;
+  left: 650px;
+  transform: translate(-50%, -50%);
+}
